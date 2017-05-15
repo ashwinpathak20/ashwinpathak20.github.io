@@ -10,4 +10,4 @@ author_profile: true
 Download
 ======
 
-[Resume](http://ashwinpathak20.github.io/files/resume.pdf)
+[Resume](http://ashwinpathak20.github.io/files/Resume.pdf)
