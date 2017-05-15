@@ -37,24 +37,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* B.Tech Honors 
+  * Center for Visual Information Technology, IIIT Hyderabad
+  
+* Intern at NE78India 
+  * Worked as an intern for developing a web application , GETrux using PHP Laravel Framework
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming :  C , C++ , Python, Java, Bash Scripting
+* Operating Systems :  Linux (Ubuntu, Fedora) , Windows
+* Web-Based, Frameworks :  JavaScript, HTML5 / CSS3, PHP (Laravel), jQuery(+AJAX), Bootstrap, Django, Ruby on Rails
+* Miscellaneous:  mySQL, SQLite, OpenGL, WebGL, Unity Game Engine, Blender, MATLAB, Software Development Life Cycle, Nosetests, ARM Assembly, Git, Vim, Eclipse
+
 
 Publications
 ======
