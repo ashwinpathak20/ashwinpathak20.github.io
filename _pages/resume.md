@@ -7,7 +7,5 @@ author_profile: true
 
 {% include base_path %}
 
-Download
+[Download](https://ashwinpathak20.github.io/files/Resume.pdf)
 ======
-
-[Resume](https://ashwinpathak20.github.io/files/Resume.pdf)
