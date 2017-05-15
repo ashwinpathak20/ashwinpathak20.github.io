@@ -54,7 +54,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter 
+  username               : 
 facebook:
   username               : 
   app_id                 :
@@ -82,8 +82,8 @@ author:
   bio              : "A second year computer science student at International Institute of Informtion Technology"
   location         : "Hyderabad"
   employer         : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : 
+  googlescholar    : 
+  email            : "ashwinpathak20nov1996@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
