@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashwin's"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Ashwin Pathak"
 description              : &description "A second year computer science student at International Institute of Informtion Technology, Hyderabad"
