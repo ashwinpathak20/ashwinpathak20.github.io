@@ -13,11 +13,27 @@ Education
 ======
 * International Institute of Information Technology            
   * Hyderabad, India
-  * B.Tech in Computer Science and Engineering,                                     
+  * B.Tech in Computer Science and Engineering                                     
   * 2015-2019
-  * CGPA (current) - 9.08/10                                 
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+  * CGPA (current) - 9.08/10
+  
+* Vijayvergiya Bal Vidyalaya                                                             
+  * Kota, India
+  * Class XII                       
+  * 2014 - 2015
+  * CBSE : 94.6%
+  
+* Maharishi Vidya Mandir                                                                     
+  * Sagar,India
+  * Class XI
+  * 2013 - 2014
+
+* St. Joseph’s Convent S.S. School                                                      
+  * Sagar,India
+  * Class X
+  * 2013
+  * CBSE : CGPA - 10 / 10                                                                    
+
 
 Work experience
 ======
