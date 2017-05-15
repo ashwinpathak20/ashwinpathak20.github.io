@@ -5,10 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-  - /about/
-  - /about.html/
-  - /cv/
-  - /cv
 ---
 
 {% include base_path %}
