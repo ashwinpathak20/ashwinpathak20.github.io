@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
+* International Institute of Information Technology            Hyderabad, India
+            B.Tech in Computer Science and Engineering,                                     2015-2019
+            CGPA (current) - 9.08/10                                 
 * M.S. in Jekyll, Github University, 2014
 * Ph.D in Version Control Theory, Github University, 2018 (expected)
 
