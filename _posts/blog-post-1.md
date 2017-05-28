@@ -1,7 +1,7 @@
 ---
 title: 'GSOC 2017 - Implementation of scipy.diff'
 date: 2017-05-15
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/blog-post-1/
 tags:
   - GSOC 2017
   - numerical differentiation
