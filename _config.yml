@@ -168,6 +168,9 @@ kramdown:
 
 # Collections
 collections:
+  arblogs:
+    outpt: true
+    permalingk: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -184,6 +187,17 @@ collections:
 
 # Defaults
 defaults:
+  # _arblogs
+  - scope:
+      path: ""
+      type: arblogs
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _posts
   - scope:
       path: ""
