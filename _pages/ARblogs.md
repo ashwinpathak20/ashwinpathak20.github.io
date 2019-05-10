@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /ar-blogs/
-title: "AR Blogs"
+title: "AR-Blogs"
 author_profile: true
 redirect_from:
   - /wordpress/ar-blogs/
