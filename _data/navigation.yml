@@ -13,6 +13,8 @@ main:
   - title: "AR Blogs"
     url: /arblogs/
     
+  - title: "Hate Speech Blogs"
+    url: /hatespeechblogs/
     
   
     
