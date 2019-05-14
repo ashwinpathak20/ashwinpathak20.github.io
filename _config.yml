@@ -168,9 +168,12 @@ kramdown:
 
 # Collections
 collections:
+  hatespeechblogs:
+    output: true
+    permalink: /:collection/:path/
   arblogs:
-    outpt: true
-    permalingk: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -187,6 +190,17 @@ collections:
 
 # Defaults
 defaults:
+  # _hatespeechblogs
+   - scope:
+      path: ""
+      type: hatespeechblogs
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
   # _arblogs
   - scope:
       path: ""
