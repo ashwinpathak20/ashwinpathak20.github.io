@@ -1,20 +1,26 @@
 # main links links
 main:
 
-  - title: "CV"
-    url: /cv/
+  #- title: "CV"
+  #  url: /cv/
 
-  - title: "Resume"
-    url: /resume/
+  #- title: "Resume"
+  #  url: /resume/
     
-  - title: "Blog Posts"
-    url: /year-archive/
+  #- title: "Blog Posts"
+  #  url: /year-archive/
     
   - title: "AR Blogs"
     url: /arblogs/
     
   - title: "Hate Speech Blogs"
     url: /hatespeechblogs/
+    
+  - title: "Safe and Secure Adversarial Learning Blogs"
+    url: /icarcnr/
+    
+  - title: "NVS for Hand-drawn Sketches Blogs"
+    url: /nvs/
     
   
     
