@@ -190,10 +190,10 @@ collections:
 
 # Defaults
 defaults:
-  # _hatespeechblogs
-   - scope:
+  # _arblogs
+  - scope:
       path: ""
-      type: hatespeechblogs
+      type: arblogs
     values:
       layout: single
       author_profile: true
@@ -201,10 +201,10 @@ defaults:
       comments: true
       share: true
       related: true
-  # _arblogs
+  # _hatespeechblogs
   - scope:
       path: ""
-      type: arblogs
+      type: hatespeechblogs
     values:
       layout: single
       author_profile: true
