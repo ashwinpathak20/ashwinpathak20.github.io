@@ -10,10 +10,10 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "AR Blogs"
+  - title: "AR"
     url: /arblogs/
     
-  - title: "Hate Speech Blogs"
+  - title: "Hate Speech"
     url: /hatespeechblogs/
     
   - title: "Safe and Secure Adversarial Learning Blogs"
