@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashwin's"
 title_separator          : "-"
 name                     : &name "Ashwin Pathak"
-description              : &description "Student at International Institute of Informtion Technology, Hyderabad"
+description              : &description "Software Development Engineer at Amazon"
 url                      : https://ashwinpathak20.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashwinpathak20/ashwinpathak20.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Ashwin Pathak"
   avatar           : "ashwin.jpg"
-  bio              : "B.Tech in computer science from International Institute of Informtion Technology"
+  bio              : "Software Development Engineer, Amazon"
   location         : "Hyderabad"
   employer         : 
   googlescholar    : 
