@@ -1,12 +1,16 @@
 ---
 layout: archive
-title: "Ashwin"
+title: ""
 permalink: /
 author_profile: true
   
 ---
 
 {% include base_path %}
+
+I am a B.Tech (Hons.) graduate from International Institute of
+Information Technology, Hyderabad. I have been working as a 
+Software Development Engineer at Amazon since July 2019. 
 
 Education
 ======
