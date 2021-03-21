@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Resume"
-permalink: /resume/
+title: "CV"
+permalink: /cv/
 author_profile: true
 ---
 
 {% include base_path %}
 
-[Download](https://ashwinpathak20.github.io/files/Resume.pdf)
+[Download](https://github.com/ashwinpathak20/ashwinpathak20.github.io/blob/master/Ashwin_Resume_V1%20(1).pdf)
 ======

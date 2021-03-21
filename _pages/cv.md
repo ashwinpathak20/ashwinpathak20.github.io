@@ -1,12 +1,8 @@
 ---
 layout: archive
-title: "CV"
+title: "Ashwin"
 permalink: /
 author_profile: true
-redirect_from:
-  - /resume
-  - /cv/
-  - /cv
   
 ---
 
