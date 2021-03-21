@@ -20,9 +20,9 @@ fast paced environment.
 
 My research work comprises of computer vision and
 natural language processing. My B.Tech Honors project was
-advised by [Prof. P.J. Narayanan
-(Professor and Director of IIIT)]
-(https://www.iiit.ac.in/people/faculty/pjn/).
+advised by [Prof. P.J. Narayanan]
+(https://www.iiit.ac.in/people/faculty/pjn)
+(Professor and Director of IIIT).
 
 
 Education
