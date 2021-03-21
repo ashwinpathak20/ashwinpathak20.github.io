@@ -177,6 +177,9 @@ collections:
   icarcnr:
     output: true
     permalink: /:collection/:path/
+  dsa:
+    output: true
+    permalink: /:collection/:path/
   nvs:
     output: true
     permalink: /:collection/:path/
@@ -222,6 +225,17 @@ defaults:
   - scope:
       path: ""
       type: icarcnr
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _dsa
+  - scope:
+      path: ""
+      type: dsa
     values:
       layout: single
       author_profile: true
