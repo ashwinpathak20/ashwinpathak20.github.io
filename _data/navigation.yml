@@ -24,6 +24,9 @@ main:
 
   - title: "DSA"
     url: /dsa/
+
+  - title: "Papers"
+    url: /papers/
     
   
     

@@ -180,6 +180,9 @@ collections:
   dsa:
     output: true
     permalink: /:collection/:path/
+  papers:
+    output: true
+    permalink: /:collection/:path/
   nvs:
     output: true
     permalink: /:collection/:path/
@@ -236,6 +239,17 @@ defaults:
   - scope:
       path: ""
       type: dsa
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _papers
+  - scope:
+      path: ""
+      type: papers
     values:
       layout: single
       author_profile: true
