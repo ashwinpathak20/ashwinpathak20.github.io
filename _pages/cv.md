@@ -25,22 +25,24 @@ advised by
 (Professor and Director of IIIT).
 
 
+Recent News
+======
+* **[Aug'21]** Started working as Teaching Assistant for Machine Learning (CS 4641) course.
+* **[Aug'21]** Stared Master of Science in Computer Science at Georgia Tech
+
+Experience
+======
+* **Software Development Engineer at Amazon** : Jul. 2019 - Aug. 2021
+* **Software Development Intern at Amazon** : May. 2018 - Jul. 2018
+
+
 Education
 ======
-* International Institute of Information Technology            
-  * Hyderabad, India
+* **Georgia Institute of Technology**
+  * MS in Computer Science with ML specialization
+  * 2021-Present
+
+* **International Institute of Information Technology, Hyderabad**            
   * B.Tech in Computer Science and Engineering                                     
   * 2015-2019
   * CGPA - 9.4/10
-  
-* Vijayvergiya Bal Vidyalaya                                                             
-  * Kota, India
-  * XII                       
-  * 2014 - 2015
-  * CBSE : 94.6%
-
-* St. Joseph’s Convent S.S. School                                                      
-  * Sagar,India
-  * X
-  * 2013
-  * CBSE : CGPA - 10 / 10                                                                    
