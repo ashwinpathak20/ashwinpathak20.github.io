@@ -8,21 +8,11 @@ author_profile: true
 
 {% include base_path %}
 
-I am a B.Tech (Hons.) graduate from International Institute of
-Information Technology, Hyderabad. I have been working as a 
-Software Development Engineer at Amazon since July 2019. 
+I am first year student at Georgia Tech studying MS CS with ML specialisation.
 
-I have experience in full-stack software development and
-am working on complex programs including high-scale services
-for customers and organizations. I am highly motivated,
-quick learner and experienced in working in a
-fast paced environment.
+I have 2 years experience at Amazon in full-stack development. Skilled in Java, Python, C++. Strong media and communication professional with a Bachelor's degree focused in computer science and engineering from International Institute of Information Technology.
 
-My research work comprises of computer vision and
-natural language processing. My B.Tech Honors project was
-advised by 
-[Prof. P.J. Narayanan](https://www.iiit.ac.in/people/faculty/pjn)
-(Professor and Director of IIIT).
+I have developed a keen interest in machine learning and its implications in business scenarios. Have worked on various problems ranging from NLP to CV problems.
 
 
 Recent News
@@ -33,8 +23,14 @@ Recent News
 Experience
 ======
 * **Software Development Engineer at Amazon** : Jul. 2019 - Aug. 2021
-* **Software Development Intern at Amazon** : May. 2018 - Jul. 2018
-
+   * Inventory Tracking Systems - Designed, implemented and deployed inventory tracking and management systems with source for enhancing sellers reach and increasing customers range of choice. Worked on AWS infrastructure and Java for development.
+   * Invoice By Amazon - Launched invoice by amazon project for enabling amazon business customers to easily track the sellers across Europe. Worked on accounting, return and seller infrastructure. 
+   * Amazon Business Homepage and Navigation - Catered to business customers experience by developing and enriching widgets for business homepage and navigation. 
+   * Mentored interns and SDEs.
+   * Led the inventory tracking module to completion.
+* **Software Development Intern at Amazon** : May. 2018 - Jul. 2018 
+   * Developed and launched a widget on the Amazon Business Homepage for recommendations on various categories of products which are frequently bought in customer's industry.
+   * Developed the widget using Java and Spring MVC.
 
 Education
 ======
