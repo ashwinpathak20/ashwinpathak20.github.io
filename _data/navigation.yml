@@ -9,6 +9,9 @@ main:
     
   - title: "AR"
     url: /arblogs/
+
+  - title: "Multi-Modal"
+    url: /multimodal/   
     
   - title: "Hate Speech"
     url: /hatespeechblogs/
