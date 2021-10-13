@@ -1,4 +1,3 @@
-
 ---
 layout: default
 ---
@@ -20,9 +19,7 @@ layout: default
     {% unless page.header.overlay_color or page.header.overlay_image %}
       <h1 class="page__title">{{ page.title }}</h1>
     {% endunless %}
-    <div style="margin-left:auto;margin-right:auto;padding-bottom: 50px">
-        {{ content }}
-      </div>
+    {{ content }}
   </div>
 </div>
 <script src="javascripts/scale.fix.js"></script>
