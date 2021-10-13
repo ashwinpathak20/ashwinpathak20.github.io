@@ -80,9 +80,9 @@ author:
   name             : "Ashwin Pathak"
   avatar           : "IMG_4941.jpg"
   bio              : "MSCS @ Georgia Tech | Ex-SDE Amazon | B.Tech CSE @IITH"
-  location         : "Hyderabad"
+  location         : "Atlanta, GA"
   employer         : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=qlIo78oAAAAJ&hl=en"
   email            : "ashwinpathak20nov1996@gmail.com"
   uri              : "https://github.com/ashwinpathak20/ashwinpathak20.github.io/blob/master/files/Ashwin_Pathak_Resume___Sep.pdf"
   bitbucket        :
@@ -177,6 +177,9 @@ collections:
   icarcnr:
     output: true
     permalink: /:collection/:path/
+  covid19:
+    output: true
+    permalink: /:collection/:path/
   multimodal:
     output: true
     permalink: /:collection/:path/  
@@ -231,6 +234,17 @@ defaults:
   - scope:
       path: ""
       type: multimodal
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _covid19
+  - scope:
+      path: ""
+      type: covid19
     values:
       layout: single
       author_profile: true

@@ -11,7 +11,10 @@ main:
     url: /arblogs/
 
   - title: "Multi-Modal"
-    url: /multimodal/   
+    url: /multimodal/ 
+
+  - title: "Situational Awareness on Covid-19"
+    url: /covid19/    
     
   - title: "Hate Speech"
     url: /hatespeechblogs/
