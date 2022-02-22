@@ -8,7 +8,7 @@ main:
   #  url: /year-archive/
 
   - title: "CS 7641 ML"
-      url: /cs7641ml/
+    url: /cs7641ml/
 
   - title: "AR"
     url: /arblogs/
