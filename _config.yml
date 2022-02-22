@@ -180,6 +180,9 @@ collections:
   covid19:
     output: true
     permalink: /:collection/:path/
+  cs7641ml:
+    output: true
+    permalink: /:collection/:path/
   multimodal:
     output: true
     permalink: /:collection/:path/  
@@ -223,6 +226,17 @@ defaults:
   - scope:
       path: ""
       type: hatespeechblogs
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _cs7641ml
+  - scope:
+      path: ""
+      type: cs7641ml
     values:
       layout: single
       author_profile: true
