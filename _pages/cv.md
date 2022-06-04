@@ -49,11 +49,10 @@ Experience
    * Developed and launched a widget on the Amazon Business Homepage for recommendations on various categories of products which are frequently bought in customer's industry.
    * Developed the widget using Java and Spring MVC.
 
-
 Research
 ======
 * **Graduate Researcher at Social and Language Technologies Lab** : Jan. 2022 - Present
-   * Working with  Dr. Diyi Yang on \textbf{conversation summarization
+   * Working with  Dr. Diyi Yang on conversation summarization.
    * Employing self-supervision techniques to create structurally-aware and consistently robust summaries.
 * **Research Intern at ICAR-CNR** : May. 2019 - Jul. 2019 
    * Worked with Prof. Giuseppe Manco in Summer 2019 remotely. 
