@@ -17,6 +17,9 @@ I have developed a keen interest in machine learning and its implications in bus
 
 Recent News
 ======
+* **[May'22]** Started SWE intern with Doordash
+* **[Apr'22]** Our work on Idiomaticity Detection using Few-Shot learning is accepted at International Workshop on Semantic Evaluation workshop.
+* **[Jan'22]** Started working as Teaching Assistant for Introduction to Cognitive Science (CS 3790) course.
 * **[Aug'21]** Started working as Teaching Assistant for Machine Learning (CS 4641) course.
 * **[Aug'21]** Stared Master of Science in Computer Science at Georgia Tech
 
@@ -33,6 +36,9 @@ Education
 
 Experience
 ======
+* **Software Engineer Intern at Doordash** : May 2022 - Aug. 2022
+    * Working on the new verticals merchant experience team to develop the functionality of search for self serve inventory management for non-retail merchants.
+    * Working on AWS, Terraform, Kotlin, Redis, React and GraphQL.
 * **Software Development Engineer at Amazon** : Jul. 2019 - Aug. 2021
    * Inventory Tracking Systems - Designed, implemented and deployed inventory tracking and management systems with source for enhancing sellers reach and increasing customers range of choice. Worked on AWS infrastructure and Java for development.
    * Invoice By Amazon - Launched invoice by amazon project for enabling amazon business customers to easily track the sellers across Europe. Worked on accounting, return and seller infrastructure. 
@@ -46,6 +52,9 @@ Experience
 
 Research
 ======
+* **Graduate Researcher at Social and Language Technologies Lab** : Jan. 2022 - Present
+   * Working with  Dr. Diyi Yang on \textbf{conversation summarization
+   * Employing self-supervision techniques to create structurally-aware and consistently robust summaries.
 * **Research Intern at ICAR-CNR** : May. 2019 - Jul. 2019 
    * Worked with Prof. Giuseppe Manco in Summer 2019 remotely. 
    * Worked on making the deep neural networks (DNN) secure using variational auto-encoders (VAE) as a technique and how to leverage this learning to make the DNNs more safe and secure.
