@@ -186,6 +186,9 @@ collections:
   cerebralEdemaDetection:
     output: true
     permalink: /:collection/:path/
+  ards:
+    output: true
+    permalink: /:collection/:path/
   multimodal:
     output: true
     permalink: /:collection/:path/  
@@ -251,6 +254,17 @@ defaults:
   - scope:
       path: ""
       type: cerebralEdemaDetection
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _ards
+  - scope:
+      path: ""
+      type: ards
     values:
       layout: single
       author_profile: true
