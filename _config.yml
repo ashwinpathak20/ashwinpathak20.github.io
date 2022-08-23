@@ -183,6 +183,9 @@ collections:
   cs7641ml:
     output: true
     permalink: /:collection/:path/
+  cerebralEdemaDetection:
+    output: true
+    permalink: /:collection/:path/
   multimodal:
     output: true
     permalink: /:collection/:path/  
@@ -237,6 +240,17 @@ defaults:
   - scope:
       path: ""
       type: cs7641ml
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _cerebralEdemaDetection
+  - scope:
+      path: ""
+      type: cerebralEdemaDetection
     values:
       layout: single
       author_profile: true
