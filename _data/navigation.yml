@@ -11,7 +11,7 @@ main:
     url: /cerebralEdemaDetection/
 
   - title: "ARDS Semi-supervised Learning"
-      url: /ards/
+    url: /ards/
 
   - title: "CS 7641 ML"
     url: /cs7641ml/
