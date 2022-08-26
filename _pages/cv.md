@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-I am first year student at Georgia Tech studying MS CS with ML specialisation.
+I am MS CS student at Georgia Tech studying with ML specialisation.
 
 I have 2 years experience at Amazon in full-stack development. Skilled in Java, Python, C++. Strong media and communication professional with a Bachelor's degree focused in computer science and engineering from International Institute of Information Technology.
 
@@ -17,6 +17,9 @@ I have developed a keen interest in machine learning and its implications in bus
 
 Recent News
 ======
+* **[Aug'22]** Started working with Dr. Rishikesan Kamaleswaran on ARDS and Cerebral Edema detction.
+* **[Aug'22]** Started working as Teaching Assistant for Natural Language Processing (ISYE 8813) course.
+* **[Aug'22]** Successfully completed the SWE intern with Doordash
 * **[May'22]** Started SWE intern with Doordash
 * **[Apr'22]** Our work on Idiomaticity Detection using Few-Shot learning is accepted at International Workshop on Semantic Evaluation workshop.
 * **[Jan'22]** Started working as Teaching Assistant for Introduction to Cognitive Science (CS 3790) course.
@@ -37,8 +40,8 @@ Education
 Experience
 ======
 * **Software Engineer Intern at Doordash** : May 2022 - Aug. 2022
-    * Working on the new verticals merchant experience team to develop the functionality of search for self serve inventory management for non-retail merchants.
-    * Working on AWS, Terraform, Kotlin, Redis, React and GraphQL.
+    * Worked with new verticals merchant experience team to develop and launch the functionality of type-ahead suggestion and search for self serve inventory management for non-retail merchants.
+    * Worked on AWS, Terraform, Kotlin, Redis, React and GraphQL.
 * **Software Development Engineer at Amazon** : Jul. 2019 - Aug. 2021
    * Inventory Tracking Systems - Designed, implemented and deployed inventory tracking and management systems with source for enhancing sellers reach and increasing customers range of choice. Worked on AWS infrastructure and Java for development.
    * Invoice By Amazon - Launched invoice by amazon project for enabling amazon business customers to easily track the sellers across Europe. Worked on accounting, return and seller infrastructure. 
@@ -51,8 +54,10 @@ Experience
 
 Research
 ======
-* **Graduate Researcher at Social and Language Technologies Lab** : Jan. 2022 - Present
-   * Working with  Dr. Diyi Yang on conversation summarization.
+* **Graduate Researcher at Bio-Medical Engineering Lab** : Aug. 2022 - Present
+  * Working with Dr. Rishikesan Kamaleswaran Yang on acute respiratory distress syndrome (ARDS) and cerebral edema detection.
+* **Graduate Researcher at Social and Language Technologies Lab** : Jan. 2022 - Aug. 2022
+   * Worked with  Dr. Diyi Yang on conversation summarization.
    * Employing self-supervision techniques to create structurally-aware and consistently robust summaries.
 * **Research Intern at ICAR-CNR** : May. 2019 - Jul. 2019 
    * Worked with Prof. Giuseppe Manco in Summer 2019 remotely. 
